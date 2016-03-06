@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produits>  
+<produit id="1">  
+        <titre>Ipod</titre>  
+<prix>150€</prix>  
+    </produit>  
+<produit id="2">  
+        <titre>MacBookPro</titre> 
+<titre>mac2</titre>		
+<prix>1800€</prix>  
+    </produit>  
+</produits> 

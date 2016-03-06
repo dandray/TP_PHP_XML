@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="application/xml" href="produit2.xsl"?>
+<produits>
+<postes>
+<nom>Poupée parlante</nom>
+<numero>32945-39</numero>
+<fabricant>
+<societe>Joumartin</societe>
+<lieu>Pardilly</lieu>
+</fabricant>
+<prix monnaie="FF">260</prix>
+<prix monnaie="Euro">40</prix>
+</postes>
+<postes>
+<nom>Marionnette en bois</nom>
+<numero>32945-40</numero>
+<fabricant>
+<societe>Joumartin</societe>
+<lieu>Pardilly</lieu>
+</fabricant>
+<prix monnaie="FF">90</prix>
+<prix monnaie="Euro">15</prix>
+</postes>
+<postes>
+<nom>Train électrique</nom>
+<numero>32945-41</numero>
+<fabricant>
+<societe>Enfanjeu</societe>
+</fabricant>
+<prix monnaie="FF">480</prix>
+<prix monnaie="Euro">80</prix>
+</postes>
+</produits>

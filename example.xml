@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+  <account login="mosser">
+    <firstname>Sebastien</firstname>
+    <lastname>MOSSER</lastname>
+  </account>
+<account login="geek"><firstname>foo</firstname><lastname>BAR</lastname></account><account login="gee111k"><firstname>fo111o</firstname><lastname>BA1111R</lastname></account><account login="gee111k"><firstname>fo111o</firstname><lastname>BA1111R</lastname></account><account login="gee111k"><firstname>fo111o</firstname><lastname>BA1111R</lastname></account><account login="geek1"><firstname>foo1</firstname><lastname>BAR1</lastname></account><account login="geek1"><firstname>foo1</firstname><lastname>BAR1</lastname></account></accounts>

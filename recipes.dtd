@@ -1,0 +1,32 @@
+<!-- DTD created at Wed Feb 19 13:20:28 CET 2014 with EditiX. Please insert an encoding attribute header for converting any DTD  -->
+
+<!ELEMENT collection        (description,recipe+)>
+
+<!ELEMENT description (#PCDATA)>
+
+<!ELEMENT recipe        (title,ingredient+ ,preparation? ,comment? ,nutrition)>
+<!ELEMENT title (#PCDATA)>
+
+
+<!ELEMENT ingredient       (ingredient*,preparation*)>
+
+<!ATTLIST ingredient name CDATA #IMPLIED>
+<!ATTLIST ingredient amount CDATA #IMPLIED>
+<!ATTLIST ingredient unit CDATA #IMPLIED>
+
+
+<!ELEMENT preparation        (step+)>
+<!ELEMENT step (#PCDATA)>
+
+<!ELEMENT comment (#PCDATA)>
+
+<!ELEMENT nutrition (#PCDATA)>
+<!ATTLIST nutrition calories CDATA #REQUIRED>
+<!ATTLIST nutrition fat CDATA #REQUIRED>
+<!ATTLIST nutrition carbohydrates CDATA #REQUIRED>
+<!ATTLIST nutrition protein CDATA #REQUIRED>
+<!ATTLIST nutrition alcohol CDATA #IMPLIED>
+
+
+
+

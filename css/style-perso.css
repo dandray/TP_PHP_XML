@@ -1,0 +1,11 @@
+h1{
+	text-align: center;
+}
+.centre{
+	text-align: center;
+}
+.panel-footer{
+	bottom:0;
+	position: fixed;
+	width: 100%;
+}
